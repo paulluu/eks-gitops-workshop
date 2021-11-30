@@ -3,6 +3,7 @@ kind: HelmRelease
 metadata:
   name: nginx
 spec:
+  targetNamespace: yolo
   releaseName: nginx-ingress-controller
   chart:
     spec:
