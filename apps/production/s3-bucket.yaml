@@ -8,5 +8,5 @@ spec:
   tagging:
     tagSet:
     - key: application
-    - value: podinfo
+      value: podinfo
 
